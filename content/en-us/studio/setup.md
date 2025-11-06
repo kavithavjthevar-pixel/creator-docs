@@ -1,3 +1,4 @@
+<img width="1366" height="768" alt="Screenshot 2025-10-28 19 19 54" src="https://github.com/user-attachments/assets/4d78b736-f2da-4a4e-a9be-c490c91d75dc" />
 ---
 title: Roblox Studio setup
 description: Explains how to install Roblox Studio on your system.
